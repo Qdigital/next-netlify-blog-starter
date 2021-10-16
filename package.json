@@ -9,7 +9,7 @@
     "export": "next export"
   },
   "dependencies": {
-    "gray-matter": "^4.0.2",
+    "gray-matter": "^4.0.3",
     "next": "^11.1.0",
     "raw-loader": "^4.0.1",
     "react": "17.0.2",
